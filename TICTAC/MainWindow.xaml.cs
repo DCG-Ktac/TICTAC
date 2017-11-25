@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace TICTAC
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// TICTAC
     /// </summary>
     public partial class MainWindow : Window
     {
